@@ -1,0 +1,16 @@
+#맨날 까먹어서 쓰는 깃허브 사용법
+#git init
+#git remote add origin 깃허브주소  or git clone 깃허브주소
+#####
+#git add .
+#git commit -m ""
+#git push origin 브렌치이름
+#git pull origin 브렌치이름(develop)
+#####
+#git status : 상태확인
+#####
+#git branch : branch 확인
+#git branch 만들고싶은브렌치이름
+#git checkout 가고싶은브렌치이름
+#####
+ls :로컬파일목록보기
