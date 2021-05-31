@@ -1,2 +1,2 @@
 # Andriod Studio Study 
-# Java
+# 사용언어 : Java
