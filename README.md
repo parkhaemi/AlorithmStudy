@@ -1,2 +1,3 @@
-# Andriod Studio Study 
-# 사용언어 : Java
+#서버 연동 php언어
+
+#로그인/ 회원가입
