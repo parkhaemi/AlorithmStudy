@@ -12,8 +12,8 @@ class DataBaseConfig
 
         $this->servername = 'localhost';
         $this->username = 'root';
-        $this->password = 'gofka2010';
-        $this->databasename = 'loginregister_tave';
+        $this->password = '*****';
+        $this->databasename = 'loginregister_sokdack';
 
     }
 }
